@@ -2,7 +2,7 @@
 Open Source Audit Project using Python and Linux shell scripts
 
 ## Student Details
-Name: Aakansha  
+Name: Akankshya Dibyadarsinee Rout
 Registration Number: 24BAI10724  
 
 ## Project Title
